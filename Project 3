@@ -1,0 +1,4 @@
+This week, I focused on the chessboard prompt. It's been a super busy week so I was feeling uninspired at the beginning of class, but playing with the p5.js code helped me come up with some ideas.
+https://editor.p5js.org/eremick/sketches/1nwAG7PCn
+I realized that changing the color with some code I had from a previous project resulted in a procedurally generated gradient, and I was able to get a color-reading text panel in the corner!
+Next week, depending on how I'm feeling, I might work on making the code more user-friendly, so it can be used as a palette selector.
